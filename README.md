@@ -35,6 +35,7 @@ hop router name.
 ## How to run:
 The expected input format is shown below:
 
+```
 X
 Y
 Z
@@ -46,6 +47,7 @@ UPDATE
 X-Z -1 X,Y
 Y-Z 9 Y,Z
 END
+```
 
 ### This is a sample input provided. Simply copy and paste those inputs in a terminal to see the result. For more detailed explanation, Check below:
 
